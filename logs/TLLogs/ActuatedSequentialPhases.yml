@@ -1,0 +1,120 @@
+***Starting server on port 65449 ***
+Loading net-file from 'data/CompExp/SingleIntersectionActuated.net.xml' ... done (10ms).
+Loading route-files incrementally from 'data/CompExp/SingleIntersectionActuated.rou.xml'
+Loading done.
+Simulation started with time: 0.00.
+Warning: Teleporting vehicle 'SBLeft.52'; waited too long (yield), lane='-E2_2', time=1169.00.
+Warning: Vehicle 'SBLeft.52' ends teleporting on edge 'E1', time=1169.00.
+Warning: Teleporting vehicle 'WBLeft2.1'; waited too long (yield), lane='-E1_2', time=1231.00.
+Warning: Vehicle 'WBLeft2.1' ends teleporting on edge 'E3', time=1231.00.
+Warning: Teleporting vehicle 'EBThrough2.15'; waited too long (yield), lane='E0_1', time=1285.00.
+Warning: Vehicle 'EBThrough2.15' ends teleporting on edge 'E1', time=1285.00.
+Warning: Teleporting vehicle 'NBLeft.46'; waited too long (yield), lane='-E3_2', time=1329.00.
+Warning: Vehicle 'NBLeft.46' ends teleporting on edge '-E0', time=1329.00.
+Warning: Teleporting vehicle 'SBThrough.53'; waited too long (yield), lane='-E2_1', time=1386.00.
+Warning: Vehicle 'SBThrough.53' ends teleporting on edge 'E3', time=1386.00.
+Warning: Teleporting vehicle 'EBLeft2.16'; waited too long (yield), lane='E0_2', time=1427.00.
+Warning: Vehicle 'EBLeft2.16' ends teleporting on edge 'E2', time=1427.00.
+Warning: Teleporting vehicle 'WBThrough2.21'; waited too long (yield), lane='-E1_1', time=1483.00.
+Warning: Vehicle 'WBThrough2.21' ends teleporting on edge '-E0', time=1483.00.
+Warning: Teleporting vehicle 'NBThrough.43'; waited too long (yield), lane='-E3_1', time=1554.00.
+Warning: Vehicle 'NBThrough.43' ends teleporting on edge 'E2', time=1554.00.
+Warning: Teleporting vehicle 'WBLeft2.25'; waited too long (yield), lane='-E1_2', time=1600.00.
+Warning: Vehicle 'WBLeft2.25' ends teleporting on edge 'E3', time=1600.00.
+Warning: Teleporting vehicle 'EBThrough2.42'; waited too long (yield), lane='E0_1', time=1656.00.
+Warning: Vehicle 'EBThrough2.42' ends teleporting on edge 'E1', time=1656.00.
+Warning: Teleporting vehicle 'NBLeft.64'; waited too long (yield), lane='-E3_2', time=1704.00.
+Warning: Vehicle 'NBLeft.64' ends teleporting on edge '-E0', time=1704.00.
+Warning: Teleporting vehicle 'SBThrough.69'; waited too long (yield), lane='-E2_1', time=1757.00.
+Warning: Vehicle 'SBThrough.69' ends teleporting on edge 'E3', time=1757.00.
+Warning: Teleporting vehicle 'EBLeft2.41'; waited too long (yield), lane='E0_2', time=1792.00.
+Warning: Vehicle 'EBLeft2.41' ends teleporting on edge 'E2', time=1792.00.
+Warning: Teleporting vehicle 'WBThrough2.48'; waited too long (yield), lane='-E1_1', time=1847.00.
+Warning: Vehicle 'WBThrough2.48' ends teleporting on edge '-E0', time=1847.00.
+Warning: Teleporting vehicle 'SBLeft.89'; waited too long (yield), lane='-E2_2', time=1902.00.
+Warning: Vehicle 'SBLeft.89' ends teleporting on edge 'E1', time=1902.00.
+Warning: Teleporting vehicle 'NBThrough.58'; waited too long (yield), lane='-E3_1', time=1948.00.
+Warning: Vehicle 'NBThrough.58' ends teleporting on edge 'E2', time=1948.00.
+Warning: Teleporting vehicle 'WBLeft2.50'; waited too long (yield), lane='-E1_2', time=1990.00.
+Warning: Vehicle 'WBLeft2.50' ends teleporting on edge 'E3', time=1990.00.
+Warning: Teleporting vehicle 'EBThrough2.69'; waited too long (yield), lane='E0_1', time=2046.00.
+Warning: Vehicle 'EBThrough2.69' ends teleporting on edge 'E1', time=2046.00.
+Warning: Teleporting vehicle 'NBLeft.79'; waited too long (yield), lane='-E3_2', time=2109.00.
+Warning: Vehicle 'NBLeft.79' ends teleporting on edge '-E0', time=2109.00.
+Warning: Teleporting vehicle 'SBThrough.90'; waited too long (yield), lane='-E2_1', time=2164.00.
+Warning: Vehicle 'SBThrough.90' ends teleporting on edge 'E3', time=2164.00.
+Warning: Teleporting vehicle 'EBLeft2.65'; waited too long (yield), lane='E0_2', time=2185.00.
+Warning: Vehicle 'EBLeft2.65' ends teleporting on edge 'E2', time=2185.00.
+Warning: Teleporting vehicle 'WBThrough2.74'; waited too long (yield), lane='-E1_1', time=2241.00.
+Warning: Vehicle 'WBThrough2.74' ends teleporting on edge '-E0', time=2241.00.
+Warning: Teleporting vehicle 'SBLeft.111'; waited too long (yield), lane='-E2_2', time=2348.00.
+Warning: Vehicle 'SBLeft.111' ends teleporting on edge 'E1', time=2348.00.
+Warning: Teleporting vehicle 'NBThrough.80'; waited too long (yield), lane='-E3_1', time=2354.00.
+Warning: Vehicle 'NBThrough.80' ends teleporting on edge 'E2', time=2354.00.
+Warning: Teleporting vehicle 'WBLeft2.74'; waited too long (yield), lane='-E1_2', time=2392.00.
+Warning: Vehicle 'WBLeft2.74' ends teleporting on edge 'E3', time=2392.00.
+Warning: Teleporting vehicle 'EBThrough2.96'; waited too long (yield), lane='E0_1', time=2449.00.
+Warning: Vehicle 'EBThrough2.96' ends teleporting on edge 'E1', time=2449.00.
+Warning: Teleporting vehicle 'NBLeft.104'; waited too long (yield), lane='-E3_2', time=2504.00.
+Warning: Vehicle 'NBLeft.104' ends teleporting on edge '-E0', time=2504.00.
+Warning: Teleporting vehicle 'EBLeft2.91'; waited too long (yield), lane='E0_2', time=2598.00.
+Warning: Vehicle 'EBLeft2.91' ends teleporting on edge 'E2', time=2598.00.
+Warning: Teleporting vehicle 'WBThrough2.99'; waited too long (yield), lane='-E1_1', time=2653.00.
+Warning: Vehicle 'WBThrough2.99' ends teleporting on edge '-E0', time=2653.00.
+Warning: Teleporting vehicle 'SBLeft.126'; waited too long (yield), lane='-E2_2', time=2710.00.
+Warning: Vehicle 'SBLeft.126' ends teleporting on edge 'E1', time=2710.00.
+Warning: Teleporting vehicle 'NBThrough.101'; waited too long (yield), lane='-E3_1', time=2778.00.
+Warning: Vehicle 'NBThrough.101' ends teleporting on edge 'E2', time=2778.00.
+Warning: Teleporting vehicle 'WBLeft2.99'; waited too long (yield), lane='-E1_2', time=2789.00.
+Warning: Vehicle 'WBLeft2.99' ends teleporting on edge 'E3', time=2789.00.
+Warning: Teleporting vehicle 'EBThrough2.123'; waited too long (yield), lane='E0_1', time=2845.00.
+Warning: Vehicle 'EBThrough2.123' ends teleporting on edge 'E1', time=2845.00.
+Warning: Teleporting vehicle 'NBLeft.125'; waited too long (yield), lane='-E3_2', time=2894.00.
+Warning: Vehicle 'NBLeft.125' ends teleporting on edge '-E0', time=2894.00.
+Warning: Teleporting vehicle 'SBThrough.120'; waited too long (yield), lane='-E2_1', time=2951.00.
+Warning: Vehicle 'SBThrough.120' ends teleporting on edge 'E3', time=2951.00.
+Warning: Teleporting vehicle 'EBLeft2.116'; waited too long (yield), lane='E0_2', time=2985.00.
+Warning: Vehicle 'EBLeft2.116' ends teleporting on edge 'E2', time=2985.00.
+Warning: Teleporting vehicle 'WBThrough2.124'; waited too long (yield), lane='-E1_1', time=3040.00.
+Warning: Vehicle 'WBThrough2.124' ends teleporting on edge '-E0', time=3040.00.
+Warning: Teleporting vehicle 'SBLeft.147'; waited too long (yield), lane='-E2_2', time=3096.00.
+Warning: Vehicle 'SBLeft.147' ends teleporting on edge 'E1', time=3096.00.
+Warning: Teleporting vehicle 'NBThrough.114'; waited too long (yield), lane='-E3_1', time=3137.00.
+Warning: Vehicle 'NBThrough.114' ends teleporting on edge 'E2', time=3137.00.
+Warning: Teleporting vehicle 'WBLeft2.124'; waited too long (yield), lane='-E1_2', time=3173.00.
+Warning: Vehicle 'WBLeft2.124' ends teleporting on edge 'E3', time=3173.00.
+Warning: Teleporting vehicle 'EBThrough2.149'; waited too long (yield), lane='E0_1', time=3228.00.
+Warning: Vehicle 'EBThrough2.149' ends teleporting on edge 'E1', time=3228.00.
+Warning: Teleporting vehicle 'NBLeft.149'; waited too long (yield), lane='-E3_2', time=3281.00.
+Warning: Vehicle 'NBLeft.149' ends teleporting on edge '-E0', time=3281.00.
+Warning: Teleporting vehicle 'SBThrough.143'; waited too long (yield), lane='-E2_1', time=3350.00.
+Warning: Vehicle 'SBThrough.143' ends teleporting on edge 'E3', time=3350.00.
+Warning: Teleporting vehicle 'EBLeft2.140'; waited too long (yield), lane='E0_2', time=3388.00.
+Warning: Vehicle 'EBLeft2.140' ends teleporting on edge 'E2', time=3388.00.
+Warning: Teleporting vehicle 'WBThrough2.150'; waited too long (yield), lane='-E1_1', time=3445.00.
+Warning: Vehicle 'WBThrough2.150' ends teleporting on edge '-E0', time=3445.00.
+Warning: Teleporting vehicle 'SBLeft.169'; waited too long (yield), lane='-E2_2', time=3511.00.
+Warning: Vehicle 'SBLeft.169' ends teleporting on edge 'E1', time=3511.00.
+Warning: Teleporting vehicle 'NBThrough.136'; waited too long (yield), lane='-E3_1', time=3561.00.
+Warning: Vehicle 'NBThrough.136' ends teleporting on edge 'E2', time=3561.00.
+Simulation ended at time: 3600.00.
+Reason: TraCI requested termination.
+Performance:
+ Duration: 15.15s
+ TraCI-Duration: 0.70s
+ Real time factor: 237.687
+ UPS: 25428.495973
+Vehicles:
+ Inserted: 2336 (Loaded: 6032)
+ Running: 139
+ Waiting: 3696
+ Teleports: 47 (Yield: 47)
+Statistics (avg of 2197):
+ RouteLength: 293.90
+ Speed: 5.79
+ Duration: 165.67
+ WaitingTime: 131.01
+ TimeLoss: 143.49
+ DepartDelay: 259.68
+DijkstraRouter answered 6814 queries and explored 3.14 edges on average.
+DijkstraRouter spent 0.01s answering queries (0.00ms on average).

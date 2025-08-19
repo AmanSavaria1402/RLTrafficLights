@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2025-08-15 16:20:43 by Eclipse SUMO netedit Version 1.23.1
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <!-- Vehicles, persons and containers (sorted by depart) -->
+    <flow id="EBLeft1" begin="0.00" departLane="2" departSpeed="avg" from="E0" to="E2" end="900.00" period="exp(0.05)"/>
+    <flow id="EBRight1" begin="0.00" departLane="0" departSpeed="avg" from="E0" to="E3" end="3600.00" period="exp(0.05)"/>
+    <flow id="EBThrough1" begin="0.00" departLane="1" departSpeed="avg" from="E0" to="E1" end="900.00" period="exp(0.05)"/>
+    <flow id="NBLeft" begin="0.00" departLane="2" departSpeed="avg" from="-E3" to="-E0" end="3600.00" period="exp(0.05)"/>
+    <flow id="NBRight" begin="0.00" departLane="0" departSpeed="avg" from="-E3" to="E1" end="3600.00" period="exp(0.05)"/>
+    <flow id="NBThrough" begin="0.00" departLane="1" departSpeed="avg" from="-E3" to="E2" end="3600.00" period="exp(0.05)"/>
+    <flow id="SBLeft" begin="0.00" departLane="2" departSpeed="avg" from="-E2" to="E1" end="3600.00" period="exp(0.05)"/>
+    <flow id="SBRight" begin="0.00" departLane="0" departSpeed="avg" from="-E2" to="-E0" end="3600.00" period="exp(0.05)"/>
+    <flow id="SBThrough" begin="0.00" departLane="1" departSpeed="avg" from="-E2" to="E3" end="3600.00" period="exp(0.05)"/>
+    <flow id="WBLeft1" begin="0.00" departLane="2" departSpeed="avg" from="-E1" to="E3" end="900.00" period="exp(0.05)"/>
+    <flow id="WBRight1" begin="0.00" departLane="0" departSpeed="avg" from="-E1" to="E2" end="3600.00" period="exp(0.05)"/>
+    <flow id="WBThrough1" begin="0.00" departLane="1" departSpeed="avg" from="-E1" to="-E0" end="900.00" period="exp(0.05)"/>
+    <flow id="EBLeft2" begin="901.00" departLane="2" departSpeed="avg" from="E0" to="E2" end="2700.00" period="exp(0.2)"/>
+    <flow id="EBThrough2" begin="901.00" departLane="1" departSpeed="avg" from="E0" to="E1" end="2700.00" period="exp(1)"/>
+    <flow id="WBLeft2" begin="901.00" departLane="2" departSpeed="avg" from="-E1" to="E3" end="2700.00" period="exp(0.2)"/>
+    <flow id="WBThrough2" begin="901.00" departLane="1" departSpeed="avg" from="-E1" to="-E0" end="2700.00" period="exp(1)"/>
+    <flow id="EBLeft3" begin="2701.00" departLane="2" departSpeed="avg" from="E0" to="E2" end="3600.00" period="exp(0.05)"/>
+    <flow id="EBThrough3" begin="2701.00" departLane="1" departSpeed="avg" from="E0" to="E1" end="3600.00" period="exp(0.05)"/>
+    <flow id="WBLeft3" begin="2701.00" departLane="2" departSpeed="avg" from="-E1" to="E3" end="3600.00" period="exp(0.05)"/>
+    <flow id="WBThrough3" begin="2701.00" departLane="1" departSpeed="avg" from="-E1" to="-E0" end="3600.00" period="exp(0.05)"/>
+</routes>

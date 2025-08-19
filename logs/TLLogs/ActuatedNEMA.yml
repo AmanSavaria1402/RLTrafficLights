@@ -1,0 +1,25 @@
+***Starting server on port 56705 ***
+Loading net-file from 'data/CompExp/SingleIntersectionNEMA.net.xml' ... done (2ms).
+Loading route-files incrementally from 'data/CompExp/SingleIntersectionNEMA.rou.xml'
+Loading done.
+Simulation started with time: 0.00.
+Simulation ended at time: 3600.00.
+Reason: TraCI requested termination.
+Performance:
+ Duration: 11.99s
+ TraCI-Duration: 0.74s
+ Real time factor: 300.25
+ UPS: 26263.386155
+Vehicles:
+ Inserted: 3206 (Loaded: 6032)
+ Running: 94
+ Waiting: 2826
+Statistics (avg of 3112):
+ RouteLength: 307.97
+ Speed: 5.21
+ Duration: 99.07
+ WaitingTime: 64.06
+ TimeLoss: 75.85
+ DepartDelay: 323.98
+DijkstraRouter answered 7425 queries and explored 3.16 edges on average.
+DijkstraRouter spent 0.01s answering queries (0.00ms on average).

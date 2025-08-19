@@ -1,0 +1,27 @@
+Loading net-file from 'data\SingleIntersection.net.xml' ... done (5ms).
+Warning: Missing yellow phase in tlLogic 'Inter', program '0' for tl-index 10 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'Inter', program '0' for tl-index 4 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'Inter', program '0' for tl-index 7 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'Inter', program '0' for tl-index 1 when switching to phase 0.
+Loading route-files incrementally from 'data\SingleIntersection.rou.xml'
+Loading done.
+Simulation started with time: 0.00.
+Simulation ended at time: 14921.00.
+Reason: All vehicles have left the simulation.
+Performance:
+ Duration: 42.21s
+ Real time factor: 353.494
+ UPS: 31901.255627
+Vehicles:
+ Inserted: 6223
+ Running: 0
+ Waiting: 0
+Statistics (avg of 6223):
+ RouteLength: 591.76
+ Speed: 4.04
+ Duration: 216.38
+ WaitingTime: 140.58
+ TimeLoss: 172.66
+ DepartDelay: 3328.73
+DijkstraRouter answered 10412 queries and explored 3.18 edges on average.
+DijkstraRouter spent 0.02s answering queries (0.00ms on average).

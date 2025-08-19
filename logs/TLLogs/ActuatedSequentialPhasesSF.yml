@@ -1,0 +1,25 @@
+***Starting server on port 56114 ***
+Loading net-file from 'data/CompExp/SingleIntersectionActuatedSF.net.xml' ... done (2ms).
+Loading route-files incrementally from 'data/CompExp/SingleIntersectionActuatedSF.rou.xml'
+Loading done.
+Simulation started with time: 0.00.
+Simulation ended at time: 3600.00.
+Reason: TraCI requested termination.
+Performance:
+ Duration: 10.75s
+ TraCI-Duration: 0.59s
+ Real time factor: 334.759
+ UPS: 28989.585271
+Vehicles:
+ Inserted: 3204 (Loaded: 6032)
+ Running: 112
+ Waiting: 2828
+Statistics (avg of 3092):
+ RouteLength: 308.53
+ Speed: 5.33
+ Duration: 98.88
+ WaitingTime: 63.96
+ TimeLoss: 75.64
+ DepartDelay: 342.19
+DijkstraRouter answered 7459 queries and explored 3.16 edges on average.
+DijkstraRouter spent 0.01s answering queries (0.00ms on average).

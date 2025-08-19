@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2025-08-10 13:15:28 by Eclipse SUMO netedit Version 1.23.1
+<neteditConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/neteditConfiguration.xsd">
+
+    <input>
+        <sumo-net-file value="D:\SUMO Exploration\data\CompExp\CompIntersection.net.xml"/>
+    </input>
+
+    <processing>
+        <geometry.min-radius.fix.railways value="false"/>
+        <geometry.avoid-overlap value="false"/>
+        <geometry.max-grade.fix value="false"/>
+        <offset.disable-normalization value="true"/>
+        <lefthand value="0"/>
+    </processing>
+
+    <junctions>
+        <no-turnarounds value="true"/>
+        <junctions.corner-detail value="5"/>
+        <junctions.limit-turn-speed value="5.50"/>
+        <rectangular-lane-cut value="0"/>
+    </junctions>
+
+    <pedestrian>
+        <walkingareas value="0"/>
+    </pedestrian>
+
+</neteditConfiguration>
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <tlLogic id="nonRush" type="static" programID="0" offset="0">
+        <phase duration="10" state="GrrGrrGrrGrG" name="1"/>
+        <phase duration="5"  state="GrrGrrGrrGry" name="1YC"/>
+        <phase duration="10" state="GrrGGrGrrGrr" name="2"/>
+        <phase duration="5"  state="GrrGyrGrrGrr" name="2YC"/>
+        <phase duration="10" state="GGGGrrGrrGrr" name="3"/>
+        <phase duration="5"  state="GyyGrrGrrGrr" name="3YC"/>
+        <phase duration="10" state="GrrGrrGGGGrr" name="4"/>
+        <phase duration="5"  state="GrrGrrGyyGrr" name="4YC"/>
+        <phase duration="10" state="GrrGrGGrrGrr" name="5"/>
+        <phase duration="5"  state="GrrGryGrrGrr" name="5YC"/>
+        <phase duration="10" state="GrrGrrGrrGGr" name="6"/>
+        <phase duration="5"  state="GrrGrrGrrGyr" name="6YC"/>
+    </tlLogic>
+</additional>

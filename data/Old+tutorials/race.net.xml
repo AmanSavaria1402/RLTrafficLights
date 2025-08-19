@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2025-06-11 13:01:08 by Eclipse SUMO netedit Version 1.23.1
+<neteditConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/neteditConfiguration.xsd">
+
+    <input>
+        <sumocfg-file value="D:\SUMO Exploration\race.sumocfg"/>
+        <route-files value="D:\SUMO Exploration\race.rou.xml"/>
+        <sumo-net-file value="D:\SUMO Exploration\race.net.xml"/>
+    </input>
+
+    <output>
+        <output-file value="D:\SUMO Exploration\race.net.xml"/>
+    </output>
+
+    <processing>
+        <geometry.min-radius.fix.railways value="false"/>
+        <geometry.avoid-overlap value="false"/>
+        <geometry.max-grade.fix value="false"/>
+        <offset.disable-normalization value="true"/>
+        <lefthand value="0"/>
+    </processing>
+
+    <junctions>
+        <no-turnarounds value="true"/>
+        <junctions.corner-detail value="5"/>
+        <junctions.limit-turn-speed value="5.50"/>
+        <rectangular-lane-cut value="0"/>
+    </junctions>
+
+    <pedestrian>
+        <walkingareas value="0"/>
+    </pedestrian>
+
+</neteditConfiguration>
+-->
+
+<net version="1.20" junctionCornerDetail="5" limitTurnSpeed="5.50" avoidOverlap="0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/net_file.xsd">
+
+    <location netOffset="0.00,0.00" convBoundary="0.00,0.00,1000.00,0.00" origBoundary="-10000000000.00,-10000000000.00,10000000000.00,10000000000.00" projParameter="!"/>
+
+    <edge id=":beg_0" function="internal">
+        <lane id=":beg_0_0" index="0" allow="pedestrian" speed="13.89" length="0.10" width="2.00" shape="900.00,-12.70 900.00,-12.70"/>
+        <lane id=":beg_0_1" index="1" allow="bicycle" speed="13.89" length="0.10" width="2.10" shape="900.00,-10.65 900.00,-10.65"/>
+        <lane id=":beg_0_2" index="2" allow="bus" speed="13.89" length="0.10" shape="900.00,-8.00 900.00,-8.00"/>
+        <lane id=":beg_0_3" index="3" allow="passenger" speed="13.89" length="0.10" shape="900.00,-4.80 900.00,-4.80"/>
+        <lane id=":beg_0_4" index="4" allow="rail_urban" speed="13.89" length="0.10" shape="900.00,-1.60 900.00,-1.60"/>
+    </edge>
+
+    <edge id="E0" from="start" to="beg" priority="-1">
+        <lane id="E0_0" index="0" allow="pedestrian" speed="13.89" length="900.00" width="2.00" shape="0.00,-12.70 900.00,-12.70"/>
+        <lane id="E0_1" index="1" allow="bicycle" speed="13.89" length="900.00" width="2.10" shape="0.00,-10.65 900.00,-10.65"/>
+        <lane id="E0_2" index="2" allow="bus" speed="13.89" length="900.00" shape="0.00,-8.00 900.00,-8.00"/>
+        <lane id="E0_3" index="3" allow="passenger" speed="13.89" length="900.00" shape="0.00,-4.80 900.00,-4.80"/>
+        <lane id="E0_4" index="4" allow="rail_urban" speed="13.89" length="900.00" shape="0.00,-1.60 900.00,-1.60"/>
+    </edge>
+    <edge id="E0.206" from="beg" to="end" priority="-1">
+        <lane id="E0.206_0" index="0" allow="pedestrian" speed="13.89" length="100.00" width="2.00" shape="900.00,-12.70 1000.00,-12.70"/>
+        <lane id="E0.206_1" index="1" allow="bicycle" speed="13.89" length="100.00" width="2.10" shape="900.00,-10.65 1000.00,-10.65"/>
+        <lane id="E0.206_2" index="2" allow="bus" speed="13.89" length="100.00" shape="900.00,-8.00 1000.00,-8.00"/>
+        <lane id="E0.206_3" index="3" allow="passenger" speed="13.89" length="100.00" shape="900.00,-4.80 1000.00,-4.80"/>
+        <lane id="E0.206_4" index="4" allow="rail_urban" speed="13.89" length="100.00" shape="900.00,-1.60 1000.00,-1.60"/>
+    </edge>
+
+    <tlLogic id="beg" type="static" programID="0" offset="0">
+        <phase duration="600" state="rrrrr"/>
+        <phase duration="1000" state="GGGGG"/>
+    </tlLogic>
+
+    <junction id="beg" type="traffic_light" x="900.00" y="0.00" incLanes="E0_0 E0_1 E0_2 E0_3 E0_4" intLanes=":beg_0_0 :beg_0_1 :beg_0_2 :beg_0_3 :beg_0_4" shape="900.00,0.00 900.00,-13.70 900.00,0.00">
+        <request index="0" response="00000" foes="00000" cont="0"/>
+        <request index="1" response="00000" foes="00000" cont="0"/>
+        <request index="2" response="00000" foes="00000" cont="0"/>
+        <request index="3" response="00000" foes="00000" cont="0"/>
+        <request index="4" response="00000" foes="00000" cont="0"/>
+    </junction>
+    <junction id="end" type="dead_end" x="1000.00" y="0.00" incLanes="E0.206_0 E0.206_1 E0.206_2 E0.206_3 E0.206_4" intLanes="" shape="1000.00,-13.70 1000.00,0.00"/>
+    <junction id="start" type="dead_end" x="0.00" y="0.00" incLanes="" intLanes="" shape="0.00,0.00 0.00,-13.70"/>
+
+    <connection from="E0" to="E0.206" fromLane="0" toLane="0" via=":beg_0_0" tl="beg" linkIndex="0" dir="s" state="O"/>
+    <connection from="E0" to="E0.206" fromLane="1" toLane="1" via=":beg_0_1" tl="beg" linkIndex="1" dir="s" state="O"/>
+    <connection from="E0" to="E0.206" fromLane="2" toLane="2" via=":beg_0_2" tl="beg" linkIndex="2" dir="s" state="O"/>
+    <connection from="E0" to="E0.206" fromLane="3" toLane="3" via=":beg_0_3" tl="beg" linkIndex="3" dir="s" state="O"/>
+    <connection from="E0" to="E0.206" fromLane="4" toLane="4" via=":beg_0_4" tl="beg" linkIndex="4" dir="s" state="O"/>
+
+    <connection from=":beg_0" to="E0.206" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from=":beg_0" to="E0.206" fromLane="1" toLane="1" dir="s" state="M"/>
+    <connection from=":beg_0" to="E0.206" fromLane="2" toLane="2" dir="s" state="M"/>
+    <connection from=":beg_0" to="E0.206" fromLane="3" toLane="3" dir="s" state="M"/>
+    <connection from=":beg_0" to="E0.206" fromLane="4" toLane="4" dir="s" state="M"/>
+
+</net>

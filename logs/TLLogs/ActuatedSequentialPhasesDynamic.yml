@@ -1,0 +1,184 @@
+***Starting server on port 49864 ***
+Loading net-file from 'data/CompExp/SingleIntersectionActuatedDynamic.net.xml' ... done (4ms).
+Warning: At actuated tlLogic 'Inter', transition phase 11 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 3 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 11 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 3 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 3 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 11 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 11 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 3 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 15 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 3 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 11 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 7 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 11 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 3 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 15 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 3 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 11 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 15 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 3 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 11 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 7 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 11 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 3 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 11 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 3 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 3 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 11 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 15 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 3 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 11 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 3 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 11 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 3 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 11 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 11 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 3 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 3 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 11 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 7 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 11 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 3 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 15 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 3 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 11 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 7 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 11 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 3 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 7 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 11 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 3 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 15 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 3 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 11 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 3 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 11 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 11 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 3 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 7 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 11 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 3 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 3 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 7 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 11 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 15 should not have multiple next phases
+Loading route-files incrementally from 'data/CompExp/SingleIntersectionActuatedDynamic.rou.xml'
+Loading done.
+Simulation started with time: 0.00.
+Warning: Teleporting vehicle 'EBThrough2.0'; waited too long (yield), lane='E0_1', time=1222.00.
+Warning: Vehicle 'EBThrough2.0' ends teleporting on edge 'E1', time=1222.00.
+Warning: Teleporting vehicle 'WBLeft2.9'; waited too long (yield), lane='-E1_2', time=1272.00.
+Warning: Vehicle 'WBLeft2.9' ends teleporting on edge 'E3', time=1272.00.
+Warning: Teleporting vehicle 'WBThrough2.15'; waited too long (yield), lane='-E1_1', time=1326.00.
+Warning: Vehicle 'WBThrough2.15' ends teleporting on edge '-E0', time=1326.00.
+Warning: Teleporting vehicle 'SBLeft.60'; waited too long (yield), lane='-E2_2', time=1369.00.
+Warning: Vehicle 'SBLeft.60' ends teleporting on edge 'E1', time=1369.00.
+Warning: Teleporting vehicle 'SBThrough.54'; waited too long (yield), lane='-E2_1', time=1410.00.
+Warning: Vehicle 'SBThrough.54' ends teleporting on edge 'E3', time=1410.00.
+Warning: Teleporting vehicle 'NBLeft.52'; waited too long (yield), lane='-E3_2', time=1461.00.
+Warning: Vehicle 'NBLeft.52' ends teleporting on edge '-E0', time=1461.00.
+Warning: Teleporting vehicle 'NBThrough.39'; waited too long (yield), lane='-E3_1', time=1498.00.
+Warning: Vehicle 'NBThrough.39' ends teleporting on edge 'E2', time=1498.00.
+Warning: Teleporting vehicle 'EBLeft2.20'; waited too long (yield), lane='E0_2', time=1523.00.
+Warning: Vehicle 'EBLeft2.20' ends teleporting on edge 'E2', time=1523.00.
+Warning: Teleporting vehicle 'EBThrough2.26'; waited too long (yield), lane='E0_1', time=1578.00.
+Warning: Vehicle 'EBThrough2.26' ends teleporting on edge 'E1', time=1578.00.
+Warning: Teleporting vehicle 'WBLeft2.34'; waited too long (yield), lane='-E1_2', time=1633.00.
+Warning: Vehicle 'WBLeft2.34' ends teleporting on edge 'E3', time=1633.00.
+Warning: Teleporting vehicle 'WBThrough2.42'; waited too long (yield), lane='-E1_1', time=1687.00.
+Warning: Vehicle 'WBThrough2.42' ends teleporting on edge '-E0', time=1687.00.
+Warning: Teleporting vehicle 'SBLeft.77'; waited too long (yield), lane='-E2_2', time=1728.00.
+Warning: Vehicle 'SBLeft.77' ends teleporting on edge 'E1', time=1728.00.
+Warning: Teleporting vehicle 'SBThrough.70'; waited too long (yield), lane='-E2_1', time=1771.00.
+Warning: Vehicle 'SBThrough.70' ends teleporting on edge 'E3', time=1771.00.
+Warning: Teleporting vehicle 'NBLeft.70'; waited too long (yield), lane='-E3_2', time=1813.00.
+Warning: Vehicle 'NBLeft.70' ends teleporting on edge '-E0', time=1813.00.
+Warning: Teleporting vehicle 'NBThrough.56'; waited too long (yield), lane='-E3_1', time=1860.00.
+Warning: Vehicle 'NBThrough.56' ends teleporting on edge 'E2', time=1860.00.
+Warning: Teleporting vehicle 'EBLeft2.45'; waited too long (yield), lane='E0_2', time=1904.00.
+Warning: Vehicle 'EBLeft2.45' ends teleporting on edge 'E2', time=1904.00.
+Warning: Teleporting vehicle 'EBThrough2.53'; waited too long (yield), lane='E0_1', time=1960.00.
+Warning: Vehicle 'EBThrough2.53' ends teleporting on edge 'E1', time=1960.00.
+Warning: Teleporting vehicle 'WBLeft2.59'; waited too long (yield), lane='-E1_2', time=2014.00.
+Warning: Vehicle 'WBLeft2.59' ends teleporting on edge 'E3', time=2014.00.
+Warning: Teleporting vehicle 'WBThrough2.69'; waited too long (yield), lane='-E1_1', time=2069.00.
+Warning: Vehicle 'WBThrough2.69' ends teleporting on edge '-E0', time=2069.00.
+Warning: Teleporting vehicle 'SBLeft.100'; waited too long (yield), lane='-E2_2', time=2149.00.
+Warning: Vehicle 'SBLeft.100' ends teleporting on edge 'E1', time=2149.00.
+Warning: Teleporting vehicle 'SBThrough.91'; waited too long (yield), lane='-E2_1', time=2192.00.
+Warning: Vehicle 'SBThrough.91' ends teleporting on edge 'E3', time=2192.00.
+Warning: Teleporting vehicle 'NBLeft.88'; waited too long (yield), lane='-E3_2', time=2229.00.
+Warning: Vehicle 'NBLeft.88' ends teleporting on edge '-E0', time=2229.00.
+Warning: Teleporting vehicle 'NBThrough.77'; waited too long (yield), lane='-E3_1', time=2273.00.
+Warning: Vehicle 'NBThrough.77' ends teleporting on edge 'E2', time=2273.00.
+Warning: Teleporting vehicle 'EBLeft2.70'; waited too long (yield), lane='E0_2', time=2326.00.
+Warning: Vehicle 'EBLeft2.70' ends teleporting on edge 'E2', time=2326.00.
+Warning: Teleporting vehicle 'EBThrough2.80'; waited too long (yield), lane='E0_1', time=2383.00.
+Warning: Vehicle 'EBThrough2.80' ends teleporting on edge 'E1', time=2383.00.
+Warning: Teleporting vehicle 'WBLeft2.84'; waited too long (yield), lane='-E1_2', time=2438.00.
+Warning: Vehicle 'WBLeft2.84' ends teleporting on edge 'E3', time=2438.00.
+Warning: Teleporting vehicle 'WBThrough2.95'; waited too long (yield), lane='-E1_1', time=2494.00.
+Warning: Vehicle 'WBThrough2.95' ends teleporting on edge '-E0', time=2494.00.
+Warning: Teleporting vehicle 'SBLeft.118'; waited too long (yield), lane='-E2_2', time=2540.00.
+Warning: Vehicle 'SBLeft.118' ends teleporting on edge 'E1', time=2540.00.
+Warning: Teleporting vehicle 'SBThrough.107'; waited too long (yield), lane='-E2_1', time=2600.00.
+Warning: Vehicle 'SBThrough.107' ends teleporting on edge 'E3', time=2600.00.
+Warning: Teleporting vehicle 'NBLeft.109'; waited too long (yield), lane='-E3_2', time=2625.00.
+Warning: Vehicle 'NBLeft.109' ends teleporting on edge '-E0', time=2625.00.
+Warning: Teleporting vehicle 'NBThrough.100'; waited too long (yield), lane='-E3_1', time=2676.00.
+Warning: Vehicle 'NBThrough.100' ends teleporting on edge 'E2', time=2676.00.
+Warning: Teleporting vehicle 'EBLeft2.95'; waited too long (yield), lane='E0_2', time=2728.00.
+Warning: Vehicle 'EBLeft2.95' ends teleporting on edge 'E2', time=2728.00.
+Warning: Teleporting vehicle 'EBThrough2.105'; waited too long (yield), lane='E0_1', time=2782.00.
+Warning: Vehicle 'EBThrough2.105' ends teleporting on edge 'E1', time=2782.00.
+Warning: Teleporting vehicle 'WBLeft2.108'; waited too long (yield), lane='-E1_2', time=2837.00.
+Warning: Vehicle 'WBLeft2.108' ends teleporting on edge 'E3', time=2837.00.
+Warning: Teleporting vehicle 'WBThrough2.122'; waited too long (yield), lane='-E1_1', time=2895.00.
+Warning: Vehicle 'WBThrough2.122' ends teleporting on edge '-E0', time=2895.00.
+Warning: Teleporting vehicle 'SBThrough.122'; waited too long (yield), lane='-E2_1', time=2986.00.
+Warning: Vehicle 'SBThrough.122' ends teleporting on edge 'E3', time=2986.00.
+Warning: Teleporting vehicle 'NBLeft.134'; waited too long (yield), lane='-E3_2', time=3027.00.
+Warning: Vehicle 'NBLeft.134' ends teleporting on edge '-E0', time=3027.00.
+Warning: Teleporting vehicle 'NBThrough.111'; waited too long (yield), lane='-E3_1', time=3078.00.
+Warning: Vehicle 'NBThrough.111' ends teleporting on edge 'E2', time=3078.00.
+Warning: Teleporting vehicle 'EBLeft2.120'; waited too long (yield), lane='E0_2', time=3114.00.
+Warning: Vehicle 'EBLeft2.120' ends teleporting on edge 'E2', time=3114.00.
+Warning: Teleporting vehicle 'EBThrough2.131'; waited too long (yield), lane='E0_1', time=3170.00.
+Warning: Vehicle 'EBThrough2.131' ends teleporting on edge 'E1', time=3170.00.
+Warning: Teleporting vehicle 'WBLeft2.133'; waited too long (yield), lane='-E1_2', time=3224.00.
+Warning: Vehicle 'WBLeft2.133' ends teleporting on edge 'E3', time=3224.00.
+Warning: Teleporting vehicle 'WBThrough2.148'; waited too long (yield), lane='-E1_1', time=3279.00.
+Warning: Vehicle 'WBThrough2.148' ends teleporting on edge '-E0', time=3279.00.
+Warning: Teleporting vehicle 'SBLeft.161'; waited too long (yield), lane='-E2_2', time=3389.00.
+Warning: Vehicle 'SBLeft.161' ends teleporting on edge 'E1', time=3389.00.
+Warning: Teleporting vehicle 'SBThrough.146'; waited too long (yield), lane='-E2_1', time=3412.00.
+Warning: Vehicle 'SBThrough.146' ends teleporting on edge 'E3', time=3412.00.
+Warning: Teleporting vehicle 'NBLeft.158'; waited too long (yield), lane='-E3_2', time=3438.00.
+Warning: Vehicle 'NBLeft.158' ends teleporting on edge '-E0', time=3438.00.
+Warning: Teleporting vehicle 'NBThrough.133'; waited too long (yield), lane='-E3_1', time=3525.00.
+Warning: Vehicle 'NBThrough.133' ends teleporting on edge 'E2', time=3525.00.
+Warning: Teleporting vehicle 'EBLeft2.145'; waited too long (yield), lane='E0_2', time=3546.00.
+Warning: Vehicle 'EBLeft2.145' ends teleporting on edge 'E2', time=3546.00.
+Simulation ended at time: 3600.00.
+Reason: TraCI requested termination.
+Performance:
+ Duration: 18.91s
+ TraCI-Duration: 0.81s
+ Real time factor: 190.426
+ UPS: 20410.737900
+Vehicles:
+ Inserted: 2318 (Loaded: 6032)
+ Running: 123
+ Waiting: 3714
+ Teleports: 47 (Yield: 47)
+Statistics (avg of 2195):
+ RouteLength: 292.26
+ Speed: 5.91
+ Duration: 163.66
+ WaitingTime: 129.77
+ TimeLoss: 141.61
+ DepartDelay: 236.02
+DijkstraRouter answered 6792 queries and explored 3.14 edges on average.
+DijkstraRouter spent 0.01s answering queries (0.00ms on average).

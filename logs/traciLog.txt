@@ -1,0 +1,29 @@
+***Starting server on port 62280 ***
+Loading net-file from 'data/SingleIntersection.net.xml' ... done (30ms).
+Warning: Missing yellow phase in tlLogic 'Inter', program '0' for tl-index 10 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'Inter', program '0' for tl-index 4 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'Inter', program '0' for tl-index 7 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'Inter', program '0' for tl-index 1 when switching to phase 0.
+Loading route-files incrementally from 'data/SingleIntersection.rou.xml'
+Loading done.
+Simulation started with time: 0.00.
+Simulation ended at time: 3600.00.
+Reason: TraCI requested termination.
+Performance:
+ Duration: 31.02s
+ TraCI-Duration: 1.09s
+ Real time factor: 116.039
+ UPS: 18027.140278
+Vehicles:
+ Inserted: 3318 (Loaded: 6223)
+ Running: 169
+ Waiting: 2905
+Statistics (avg of 3149):
+ RouteLength: 588.86
+ Speed: 5.69
+ Duration: 169.99
+ WaitingTime: 103.78
+ TimeLoss: 126.44
+ DepartDelay: 279.86
+DijkstraRouter answered 7494 queries and explored 3.12 edges on average.
+DijkstraRouter spent 0.01s answering queries (0.00ms on average).

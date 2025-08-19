@@ -1,0 +1,69 @@
+***Starting server on port 56159 ***
+Loading net-file from 'data/CompExp/SingleIntersectionActuatedDynamicSF.net.xml' ... done (2ms).
+Warning: At actuated tlLogic 'Inter', transition phase 1 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 3 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 3 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 1 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 5 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 1 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 3 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 7 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 3 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 1 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 3 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 1 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 1 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 3 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 7 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 3 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 1 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 5 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 1 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 3 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 5 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 1 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 3 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 1 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 3 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 3 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 1 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 7 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 3 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 1 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 7 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 3 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 1 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 3 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 1 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 1 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 3 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 5 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 1 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 3 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 1 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 3 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 5 should not have multiple next phases
+Warning: At actuated tlLogic 'Inter', transition phase 7 should not have multiple next phases
+Loading route-files incrementally from 'data/CompExp/SingleIntersectionActuatedDynamicSF.rou.xml'
+Loading done.
+Simulation started with time: 0.00.
+Simulation ended at time: 3600.00.
+Reason: TraCI requested termination.
+Performance:
+ Duration: 13.49s
+ TraCI-Duration: 0.54s
+ Real time factor: 266.924
+ UPS: 24327.871283
+Vehicles:
+ Inserted: 3263 (Loaded: 6032)
+ Running: 98
+ Waiting: 2769
+Statistics (avg of 3165):
+ RouteLength: 309.45
+ Speed: 5.40
+ Duration: 101.72
+ WaitingTime: 66.68
+ TimeLoss: 78.42
+ DepartDelay: 346.81
+DijkstraRouter answered 7471 queries and explored 3.16 edges on average.
+DijkstraRouter spent 0.01s answering queries (0.00ms on average).

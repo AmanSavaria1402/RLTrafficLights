@@ -1,0 +1,34 @@
+***Starting server on port 51111 ***
+Loading net-file from 'data/SingleIntersection.net.xml' ... done (5ms).
+Warning: Missing yellow phase in tlLogic 'Inter', program '0' for tl-index 10 when switching to phase 1.
+Warning: Missing yellow phase in tlLogic 'Inter', program '0' for tl-index 4 when switching to phase 2.
+Warning: Missing yellow phase in tlLogic 'Inter', program '0' for tl-index 7 when switching to phase 3.
+Warning: Missing yellow phase in tlLogic 'Inter', program '0' for tl-index 1 when switching to phase 0.
+Loading route-files incrementally from 'data/SingleIntersection.rou.xml'
+Loading done.
+Simulation started with time: 0.00.
+Warning: Teleporting vehicle 'SW.47'; waited too long (yield), lane='-E4_2', time=1255.00.
+Warning: Vehicle 'SW.47' ends teleporting on edge '-E1', time=1255.00.
+Warning: Teleporting vehicle 'SN.40'; waited too long (yield), lane='-E4_1', time=1276.00.
+Warning: Vehicle 'SN.40' ends teleporting on edge '-E3', time=1276.00.
+Simulation ended at time: 3600.00.
+Reason: TraCI requested termination.
+Performance:
+ Duration: 54.86s
+ TraCI-Duration: 8.22s
+ Real time factor: 65.6204
+ UPS: 11294.179836
+Vehicles:
+ Inserted: 3467 (Loaded: 6223)
+ Running: 182
+ Waiting: 2756
+ Teleports: 2 (Yield: 2)
+Statistics (avg of 3285):
+ RouteLength: 589.03
+ Speed: 5.87
+ Duration: 179.62
+ WaitingTime: 73.10
+ TimeLoss: 136.03
+ DepartDelay: 236.87
+DijkstraRouter answered 7376 queries and explored 3.10 edges on average.
+DijkstraRouter spent 0.01s answering queries (0.00ms on average).
