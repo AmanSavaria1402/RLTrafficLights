@@ -10,3 +10,4 @@ Phase 1 is underway, so far, I have created a prototype baseline RL model that c
 
 You can find the video of my model working in [this](https://youtu.be/LP0BYv9mwDE?si=KnioH-WXVDXrLo1T) (Cityflow Simulator) and [this](https://youtu.be/5Zpo7wx7vFY?si=znLREEitTubWT4Hp) (SUMO Simulator) videos.
 
+[![Watch the demo](https://img.youtube.com/vi/5Zpo7wx7vFY/maxresdefault.jpg)](https://www.youtube.com/watch?v=5Zpo7wx7vFY)
